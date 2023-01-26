@@ -20,4 +20,3 @@ public:
         return ans;
     }
 };
-how_many_numbers_are_smaller_than_the_current_number.cpp
