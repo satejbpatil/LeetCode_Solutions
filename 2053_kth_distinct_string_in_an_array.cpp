@@ -11,6 +11,3 @@ public:
         
     }
 };
-
-
-kth_distinct_string_in_an_array.cpp
