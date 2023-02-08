@@ -13,4 +13,5 @@ public:
         int ans=m-s;
         return ans;
     }
+    
 };
