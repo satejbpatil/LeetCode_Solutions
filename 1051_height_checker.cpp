@@ -8,7 +8,6 @@ public:
            if(v[i]!=v1[i])c++;
         }
         return c;
-        
-    }
+     }
 };
 
