@@ -9,6 +9,5 @@ public:
         }
         return c;
      }
-    
 };
 
